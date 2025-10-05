@@ -1,0 +1,6 @@
+AI Agent for Presentations
+
+This project builds an AI agent using the Gemini API to automatically generate professional slide decks. 
+It will parse an input document,structure the content, and create a complete presentation file. 
+The agent will leverage various tools for tasks like image generation, data visualization, and final document formatting.
+The goal is to dramatically reduce the time and effort required to create a polished presentation.
